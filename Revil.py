@@ -1300,7 +1300,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ACTIVATED REPLY RAID AB BOL BSDK DEKH KAISE TERI GAAND MAARTA HUN"
+            text = "NOW AMAN RAJPUT WILL FUCK THEM HARDER🤤🔥🔥...ACTIVATED REPLY RAID AB BOL BSDK DEKH KAISE TERI GAAND MAARTA HUN"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1310,7 +1310,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ACTIVATED REPLY RAID AB BOL BSDK DEKH KAISE TERI GAAND MAARTA HUN"
+            text = "BETA AMAN RAJPUT SE BHIDOGE TO GHANTO CHUODGE....ACTIVATED REPLY RAID AB BOL BSDK DEKH KAISE TERI GAAND MAARTA HUN "
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1410,7 +1410,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nREVIL MULTISPAM BOT\n`{ms}` ᴍs")
+        await event.edit(f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nAMAN RAJPUT SPAM BOT\n`{ms}` ᴍs")
 
 
     
